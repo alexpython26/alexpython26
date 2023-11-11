@@ -1,7 +1,7 @@
 
 ### Хаха, котенок в ванне  
 <div align="center">
-<img src="https://www.dogeat.ru/img/92-1.jpg" align="center" style="width: 50%" />
+<img src="https://www.dogeat.ru/img/92-1.jpg" align="center" style="width: 45%" />
 </div>  
   
 <h1 align="center">Привет, меня зовут Александра!</h1>
